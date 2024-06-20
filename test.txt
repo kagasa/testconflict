@@ -1,5 +1,5 @@
 Name: ABC
 Class: 9th
-commit: 123abc
-path: a/b/c/d
+commit: 123second
+path: a/b/c/f
 version: 1  
